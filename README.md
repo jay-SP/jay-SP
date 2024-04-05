@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jay-SP
 - 👀 I’m interested in cloud native development
 - 🌱 I’m currently learning to build own stuff
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/jay-pagidi-424b22228/
 
 <!---
